@@ -1,1 +1,1 @@
-A small ecommerce-site fro practice purpose
+A small ecommerce-site for practice purpose
