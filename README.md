@@ -1,1 +1,1 @@
-# ecommerce-site
+A small ecommerce-site fro practice purpose
