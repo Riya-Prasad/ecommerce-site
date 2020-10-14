@@ -1,5 +1,5 @@
 body{
-	background-color: #fddb3a;
+	background-color: #ffc7c7;
 	margin-bottom: 25px;
 }
 
@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .bg-dark{
-	background-color: #311d3f!important;
+	background-color: #821752!important;
 	margin-bottom: 22px;
 }
 
@@ -71,6 +71,14 @@ h1,h2,h3,h4,h5,h6{
 
 .btn{
 	border-radius: 0;
+}
+
+.btn-outline-secondary:hover{
+	background-color: #be5683;
+}
+
+.btn-outline-dark:hover{
+	background-color: #be5683;
 }
 
 .row-image{
